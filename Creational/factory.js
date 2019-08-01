@@ -1,6 +1,7 @@
 
 /*
-	Factory pattern: In this pattern, we provide a generic interface that delegates the responsibility of object instantiation to its subclasses
+	Factory pattern: In this pattern, we provide a generic interface that delegates the responsibility of object instantiation to its subclasses.
+	This pattern is frequently used when we need to manage or manipulate collections of objects that are different yet have many similar characteristics.
 */
 
 class BallFactory {

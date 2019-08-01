@@ -1,0 +1,16 @@
+Design pattern is a term used in software engineering for a general, reusable solution to a commonly occuring problem.
+
+Design patterns are by no means finished solutions. They only provide us approaches or schemes to solve a problem. 
+
+Categories of Design Patterns
+
+1. Creational Design Patterns
+	These patterns are for handling object creational mechanisms. It's basically a pattern that solves a problem by controlling the creation process of an object.	E.g Constructor pattern, factory pattern, prototype pattern, singleton pattern.
+
+2. Structural Design Patterns
+	These patterns are concerned with class and object composition. They help to structure or restructure one or more parts without affecting the entire system. In other words, they help to obtain new functionalities without tampering with the existing ones. E.g Adapter pattern, composite pattern, decorator pattern, facade pattern, flyweight pattern, proxy pattern.
+
+3. Behavioural Design Patterns
+	These patterns are concerned with improving communication between objects. E.g Chain of responsibility pattern, command pattern, iterator pattern, mediator pattern, observer pattern, state pattern, strategy pattern, template pattern.
+
+	
